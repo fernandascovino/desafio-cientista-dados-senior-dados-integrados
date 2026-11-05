@@ -19,7 +19,7 @@ Este desafio avalia suas habilidades em **modelagem de dados com dbt**, estraté
 1. Faça um fork do repositório do desafio para colocar a sua solução
 2. Organize o projeto seguindo as boas práticas de dbt descritas abaixo
 3. Inclua **README.md** explicando abordagem, decisões de arquitetura e como reproduzir
-4. **Entrega**: Envie o link do repositório para `selecao.pcrj@gmail.com`
+4. **Entrega**: Siga o passo a passo enviado por email para entrega da sua solução
 
 ---
 
@@ -206,6 +206,6 @@ Sim, e é um diferencial! Sugestões: `dbt_utils`, `dbt_expectations`, `codegen`
 
 ## Contato
 
-Dúvidas? Envie um email para: **<fernanda.scovino@prefeitura.rio>**
+Dúvidas? Responda diretamente ao email no qual você recebeu o desafio 😉
 
 Boa sorte! 🚀
